@@ -1,7 +1,6 @@
 {
   "enabled": true,
-  "title": "إعلان تجريبي",
-  "description": "مرحبا بكم في بوابة العيادة الذكية",
-  "imageUrl": "",
-  "websiteUrl": ""
+
+  "imageUrl": "https://raw.githubusercontent.com/khaledbasteen/smartclinic-ads/main/ad1.png",
+  
 }
